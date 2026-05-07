@@ -1,0 +1,11 @@
+小白上传 GitHub 步骤：
+
+1. 解压 goodmall_flutter_app_fixed_for_github.zip
+2. 打开 GitHub，新建仓库 goodmall_flutter_app
+3. 点击 Add file -> Upload files
+4. 把解压后 goodmall_flutter_app_fixed 文件夹里面的所有内容拖进去
+5. Commit changes
+6. 点 Actions
+7. 点 Build GoodMall Flutter APK
+8. 点 Run workflow
+9. 完成后下载 Artifacts: goodmall-apk
